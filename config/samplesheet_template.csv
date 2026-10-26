@@ -1,0 +1,9 @@
+sample,fastq_1,fastq_2,replicate
+WT_Skin,/path/to/fastq/SRRXXXXXX01_1.fastq.gz,/path/to/fastq/SRRXXXXXX01_2.fastq.gz,1
+WT_Skin,/path/to/fastq/SRRXXXXXX02_1.fastq.gz,/path/to/fastq/SRRXXXXXX02_2.fastq.gz,1
+WT_Skin,/path/to/fastq/SRRXXXXXX03_1.fastq.gz,/path/to/fastq/SRRXXXXXX03_2.fastq.gz,2
+WT_Skin,/path/to/fastq/SRRXXXXXX04_1.fastq.gz,/path/to/fastq/SRRXXXXXX04_2.fastq.gz,3
+HET_Skin,/path/to/fastq/SRRXXXXXX05_1.fastq.gz,/path/to/fastq/SRRXXXXXX05_2.fastq.gz,1
+HET_Skin,/path/to/fastq/SRRXXXXXX06_1.fastq.gz,/path/to/fastq/SRRXXXXXX06_2.fastq.gz,2
+HET_Skin,/path/to/fastq/SRRXXXXXX07_1.fastq.gz,/path/to/fastq/SRRXXXXXX07_2.fastq.gz,3
+HET_Skin,/path/to/fastq/SRRXXXXXX08_1.fastq.gz,/path/to/fastq/SRRXXXXXX08_2.fastq.gz,4
