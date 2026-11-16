@@ -32,7 +32,7 @@ annotation and regulatory motif analysis.
 
 The scripts are provided as used for the analysis of mouse skin (heterozygous
 vs wild-type; GEO accession GSE277902, mm10/GRCm38) reported in Veland et al.,
-Nature (2026), doi:10.1038/s41586-026-11076-4.
+Nature (2026), doi:[10.1038/s41586-026-11076-4](https://doi.org/10.1038/s41586-026-11076-4).
 
 - **Purpose:** differential chromatin accessibility between two groups of samples
 - **Example dataset:** mouse skin, HET (n = 4) vs WT (n = 3), paired-end; GEO GSE277902
@@ -143,7 +143,7 @@ Raw data for the example analysis are available from GEO under accession
 ## Citations
 
 - Veland N *et al.* γδ T cell receptor dependencies define a unique immunosurveillance
-  modality. *Nature* (2026). doi:10.1038/s41586-026-11076-4
+  modality. *Nature* (2026). doi:[10.1038/s41586-026-11076-4](https://doi.org/10.1038/s41586-026-11076-4)
 - Ewels PA *et al.* The nf-core framework for community-curated bioinformatics
   pipelines. *Nat Biotechnol* 38, 276–278 (2020).
 - nf-core/atacseq: doi:[10.5281/zenodo.2634132](https://doi.org/10.5281/zenodo.2634132)
